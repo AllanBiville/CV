@@ -1,1 +1,29 @@
-h1{color:#5858FA; font-size:300%;}
+h1{
+	color:mediumslateblue; 
+	font-size:300%;
+	border-bottom: 10px dotted purple;
+	font-weight:bold;
+	width:35%;
+}
+p , body{
+	font-family: Helvetica;
+	max-width:60%;
+}
+h2{
+	font-style:italic;
+	font-family: Helvetica;
+	font-weight:bold;
+}
+ul.job-contact{
+	background-color:#eeeeee;
+	border:5px solid purple;
+	max-width:300px;
+	padding:20px;
+}
+a:hover{
+	color:green;
+	text-decoration: none
+}
+.job-title{
+	color:grey;
+}
